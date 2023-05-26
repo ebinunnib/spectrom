@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+.r1{
+    display: inline-block;
+    background-color: antiquewhite;
+    border: 5px;
+    height: 100px;
+    width: 50px;
+    margin: 5px;
+
+
+}
+
+#s1{
+
+    background-color: rgb(121, 126, 126);
+    
+
+}
+#s2{
+    background-color: rgb(9, 70, 9);
+    
+}
+#s3{
+    background-color: rgb(80, 148, 12);
+}
+#s4{
+    background-color: chartreuse;
+}
+#s5{
+    background-color: antiquewhite;
+}
+
+
+#s6{
+    background-color: coral;
+}
+#s7{
+    background-color: rgb(209, 20, 20);
+}
+#s8{
+background-color: rgb(223, 100, 100);
+}
+#s9{
+background-color: blueviolet;
+}
+
+#s10{
+background-color: rgb(48, 6, 87);
+}
+#s11{
+background-color: blueviolet;
+}
+
+#s12{
+background-color: rgb(145, 137, 128);
+}
+#s13{
+background-color: aqua;
+}
+#s14{
+background-color: chartreuse;
+}
+#s15{
+background-color: rgb(252, 144, 105);
+}
+#s16{
+background-color: rgb(235, 13, 13);
+}
+#s17{
+background-color: rgb(39, 13, 13);
+}
+#s18{
+background-color: aqua;
+}
+#s19{
+background-color: rgb(31, 109, 31);
+}
+#s20{
+background-color: rgb(111, 76, 143);
+}
+#s21{
+background-color: rgb(54, 16, 16);
+}
